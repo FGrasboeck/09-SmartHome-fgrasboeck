@@ -1,2 +1,3 @@
 # 09-SmartHome-fgrasboeck
-<img width="1373" height="702" alt="image" src="https://github.com/user-attachments/assets/9e3395d0-d872-4283-9ded-bb4a8a4779f4" />
+<img width="465" height="259" alt="image" src="https://github.com/user-attachments/assets/039008fa-62c3-4371-9d9f-1964daee00d0" />
+
